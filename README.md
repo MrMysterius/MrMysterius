@@ -1,14 +1,21 @@
-<h1 align="center">Mr Mysterius</h1>
+<h1 align="center">Mr Mysterius' GitHub Page</h1>
 
-I code as a hobby and mostly for fun, but my code can suck really often and I just hope it just does its job and maybe I once or twice make something really good that people enjoy.
+I mostly code as a hobby for fun, but atleast I have fun doing so even though it isn't everytime the best code.
 
-If your already here maybe you wanna check out some pins and if you like something hit me up with a message or gimme a star would really appreciate that.
+If you're already here why don't you check out some pins and hit me up with a message if you like something.
 
-<div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=mrmysterius&show_icons=true&theme=dark&count_private=true&cache_seconds=1800&include_all_commits=true">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmysterius&layout=compact&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrMysterius&theme=dark" height="320px" align="left">
+  
+<div align="right">
+  <img height="156px" src="https://github-readme-stats.vercel.app/api?username=mrmysterius&show_icons=true&theme=dark&count_private=true&cache_seconds=1800&include_all_commits=true">
+  <br>
+  <img height="156px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmysterius&layout=compact&theme=dark">
 </div>
 
+---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrMysterius&theme=dark">
+  
+  [<img src="https://abs.twimg.com/favicons/twitter.2.ico" height="15px"> @MrMysterius666](https://twitter.com/MrMysterius666) - [<img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" height="15px"> @Mr Mysterius#0020](https://discord.nohobbysfound.net) - [<img src="https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png" height="15px"> u/MrMysterius](https://www.reddit.com/user/MrMysterius)
+
 </div>
