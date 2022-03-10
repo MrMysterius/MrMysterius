@@ -4,12 +4,15 @@ I mostly code as a hobby for fun, but atleast I have fun doing so even though it
 
 If you're already here why don't you check out some pins and hit me up with a message if you like something.
 
-<a href="https://app.daily.dev/mrmysterius"><img src="https://api.daily.dev/devcards/acce68fe79c14518955f09669a57dcdb.png?r=yzj" height="320px" alt="Mr Mysterius's Dev Card"  align="left"/></a>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrMysterius&theme=dark" height="320px" align="left">
+<div align="center">
+  <a href="https://app.daily.dev/mrmysterius"><img src="https://api.daily.dev/devcards/acce68fe79c14518955f09669a57dcdb.png?r=yzj" height="320px" alt="Mr Mysterius's Dev Card"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrMysterius&theme=dark" height="320px">
+</div>
   
-<div align="right">
+<br>
+  
+<div align="center">
   <img height="156px" src="https://github-readme-stats.vercel.app/api?username=mrmysterius&show_icons=true&theme=dark&count_private=true&cache_seconds=1800&include_all_commits=true">
-  <br>
   <img height="156px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmysterius&layout=compact&theme=dark">
 </div>
 
