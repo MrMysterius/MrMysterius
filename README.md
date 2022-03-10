@@ -5,7 +5,7 @@ I mostly code as a hobby for fun, but atleast I have fun doing so even though it
 If you're already here why don't you check out some pins and hit me up with a message if you like something.
 
 <div align="center">
-  <a href="https://app.daily.dev/mrmysterius"><img src="https://api.daily.dev/devcards/acce68fe79c14518955f09669a57dcdb.png?r=yzj" height="320px" alt="Mr Mysterius's Dev Card"/></a>
+  <a href="https://app.daily.dev/mrmysterius"><img src="https://api.daily.dev/devcards/acce68fe79c14518955f09669a57dcdb.png?r=mpu" height="320px" alt="Mr Mysterius's Dev Card" /></a>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrMysterius&theme=dark" height="320px">
 </div>
   
