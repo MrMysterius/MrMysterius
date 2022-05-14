@@ -16,6 +16,10 @@ If you're already here why don't you check out some pins and hit me up with a me
   <img height="156px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmysterius&layout=compact&theme=dark">
 </div>
 
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="600px">
+</div>
+
 ---
 
 <div align="center">
