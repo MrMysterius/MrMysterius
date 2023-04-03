@@ -1,15 +1,12 @@
 <h1 align="center">Mr Mysterius' GitHub Page</h1>
 
-I mostly code as a hobby for fun, but atleast I have fun doing so even though it isn't everytime the best code.
-
-If you're already here why don't you check out some pins and hit me up with a message if you like something.
-
 <div align="center">
-  <a href="https://app.daily.dev/mrmysterius"><img src="https://api.daily.dev/devcards/acce68fe79c14518955f09669a57dcdb.png?r=mpu" height="320px" alt="Mr Mysterius's Dev Card" /></a>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrMysterius&theme=dark" height="320px">
-</div>
   
-<br>
+  **Hi**, I am a **Friendly Hobby Coder**, that does most of the **stuff for fun**, so my code might **not** be **optimal** all the time, but thats **okay for me**.
+  
+  Also **while you're here** why don't you **check out** some of my **pinned reposetories** or hit me up with a **message**, if you like something or you have some feedback.
+  
+</div>
   
 <div align="center">
   <img height="156px" src="https://github-readme-stats.vercel.app/api?username=mrmysterius&show_icons=true&theme=dark&count_private=true&cache_seconds=1800&include_all_commits=true">
