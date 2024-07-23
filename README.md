@@ -7,3 +7,5 @@
   Also **while you're here** why don't you **check out** some of my **pinned reposetories** or hit me up with a **message**, if you like something or you have some feedback.
   
 </div>
+
+<img height="156px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmysterius&layout=donut&theme=dark">
